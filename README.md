@@ -1,6 +1,7 @@
 # Movie App
 
 The Movie App is a mobile application designed to provide users with easy access to a vast database of movies. Users can search for movies based on categories, titles, or content, and view detailed information about each movie. Additionally, users can save their favorite movies for later viewing. This README will guide you through the app's features, architecture, and how to set up the project.
+
 <img src="https://github.com/RealEskalate/2023-project-phase-assessment/assets/105089130/7e0f5097-b458-4eca-8746-de7b7e411a27"  width="200" height="400"/> <img src="https://github.com/RealEskalate/2023-project-phase-assessment/assets/105089130/2a269724-d3d9-4c20-bcec-c0dd102b4a97"  width="200" height="400"/> <img src="https://github.com/RealEskalate/2023-project-phase-assessment/assets/105089130/4a69f26f-0d3d-41ee-af9e-bb0e22a3b79d"  width="200" height="400"/> <img src="https://github.com/RealEskalate/2023-project-phase-assessment/assets/105089130/c6b733f0-5151-4dfc-8777-22595dd9c8cf" width="200" height="400"/>
 
 
